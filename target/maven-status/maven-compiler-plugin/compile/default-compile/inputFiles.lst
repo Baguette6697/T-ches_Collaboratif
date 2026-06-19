@@ -1,0 +1,7 @@
+/workspaces/T-ches_Collaboratif/src/main/java/com/clement/servlet/CreateTaskServlet.java
+/workspaces/T-ches_Collaboratif/src/main/java/com/clement/model/Task.java
+/workspaces/T-ches_Collaboratif/src/main/java/com/clement/servlet/TaskServlet.java
+/workspaces/T-ches_Collaboratif/src/main/java/com/clement/service/TaskService.java
+/workspaces/T-ches_Collaboratif/src/main/java/com/clement/servlet/DeleteTaskServlet.java
+/workspaces/T-ches_Collaboratif/src/main/java/com/clement/servlet/UpdateTaskServlet.java
+/workspaces/T-ches_Collaboratif/src/main/java/com/clement/service/TaskFileStorage.java

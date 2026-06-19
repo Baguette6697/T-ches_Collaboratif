@@ -1,0 +1,7 @@
+com/clement/service/TaskFileStorage.class
+com/clement/servlet/TaskServlet.class
+com/clement/servlet/UpdateTaskServlet.class
+com/clement/servlet/DeleteTaskServlet.class
+com/clement/servlet/CreateTaskServlet.class
+com/clement/model/Task.class
+com/clement/service/TaskService.class
