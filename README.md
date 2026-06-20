@@ -229,3 +229,10 @@ For issues or questions, please check:
 1. Tomcat logs: `$CATALINA_HOME/logs/`
 2. Browser console for JavaScript errors
 3. Task file at `~/.clement-tasks/tasks.json`
+
+## to start server
+
+```
+chmod +x apache-tomcat-9.0.56/bin/*.sh
+./apache-tomcat-9.0.56/bin/startup.sh
+```
