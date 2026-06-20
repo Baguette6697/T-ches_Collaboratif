@@ -44,3 +44,48 @@
 20-Jun-2026 07:17:39.609 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/webapps/manager] has finished in [38] ms
 20-Jun-2026 07:17:39.614 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
 20-Jun-2026 07:17:39.663 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1708] milliseconds
+20-Jun-2026 08:18:44.460 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.56
+20-Jun-2026 08:18:44.467 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 2 2021 14:30:07 UTC
+20-Jun-2026 08:18:44.467 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.56.0
+20-Jun-2026 08:18:44.468 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+20-Jun-2026 08:18:44.468 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.8.0-1052-azure
+20-Jun-2026 08:18:44.468 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Jun-2026 08:18:44.469 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /opt/java/11.0.14
+20-Jun-2026 08:18:44.469 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.14.1+1-LTS
+20-Jun-2026 08:18:44.469 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Microsoft
+20-Jun-2026 08:18:44.470 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56
+20-Jun-2026 08:18:44.470 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56
+20-Jun-2026 08:18:44.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Jun-2026 08:18:44.511 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Jun-2026 08:18:44.511 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+20-Jun-2026 08:18:44.511 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+20-Jun-2026 08:18:44.511 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Jun-2026 08:18:44.512 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/conf/logging.properties
+20-Jun-2026 08:18:44.512 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Jun-2026 08:18:44.512 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Jun-2026 08:18:44.512 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Jun-2026 08:18:44.512 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+20-Jun-2026 08:18:44.513 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Jun-2026 08:18:44.514 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56
+20-Jun-2026 08:18:44.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56
+20-Jun-2026 08:18:44.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/temp
+20-Jun-2026 08:18:44.527 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+20-Jun-2026 08:18:45.412 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Jun-2026 08:18:45.481 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1460] milliseconds
+20-Jun-2026 08:18:45.583 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Jun-2026 08:18:45.583 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.56]
+20-Jun-2026 08:18:45.614 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/webapps/Clement.war]
+20-Jun-2026 08:18:46.392 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Jun-2026 08:18:46.480 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/webapps/Clement.war] has finished in [863] ms
+20-Jun-2026 08:18:46.481 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/webapps/ROOT]
+20-Jun-2026 08:18:46.523 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/webapps/ROOT] has finished in [42] ms
+20-Jun-2026 08:18:46.524 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/webapps/host-manager]
+20-Jun-2026 08:18:46.555 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/webapps/host-manager] has finished in [31] ms
+20-Jun-2026 08:18:46.557 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/webapps/examples]
+20-Jun-2026 08:18:46.762 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/webapps/examples] has finished in [206] ms
+20-Jun-2026 08:18:46.764 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/webapps/docs]
+20-Jun-2026 08:18:46.806 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/webapps/docs] has finished in [42] ms
+20-Jun-2026 08:18:46.808 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/webapps/manager]
+20-Jun-2026 08:18:46.843 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/workspaces/T-ches_Collaboratif/apache-tomcat-9.0.56/webapps/manager] has finished in [35] ms
+20-Jun-2026 08:18:46.850 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Jun-2026 08:18:46.869 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1384] milliseconds
